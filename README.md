@@ -43,19 +43,23 @@ Predict whether a telecom customer will churn (leave the service) based on histo
 ## 📸 Screenshots
 
 ### EDA — Churn Distribution & Patterns
-![EDA](screenshots/eda.png)
+<img width="1785" height="1329" alt="image" src="https://github.com/user-attachments/assets/87bd0261-7419-4282-b174-0c1a85fd0a48" />
+
 
 ### Model Comparison
-![Model Comparison](screenshots/model_comparison.png)
+<img width="1335" height="734" alt="image" src="https://github.com/user-attachments/assets/167fd496-a625-4f8c-8244-3330483b30af" />
+
 
 ### ROC Curves
-![ROC Curves](screenshots/roc_curves.png)
+<img width="1184" height="882" alt="image" src="https://github.com/user-attachments/assets/b571672f-84c3-490d-bbc1-9f8b41445383" />
+
 
 ### Confusion Matrix
-![Confusion Matrix](screenshots/confusion_matrix.png)
+<img width="849" height="731" alt="image" src="https://github.com/user-attachments/assets/f8ea440f-d837-449b-b478-162b77c89737" />
+
 
 ### Feature Importance (XGBoost)
-![Feature Importance](screenshots/feature_importance.png)
+<img width="1334" height="732" alt="image" src="https://github.com/user-attachments/assets/5c1e8237-c0fd-465e-9390-ac45dbb6802a" />
 
 ---
 
